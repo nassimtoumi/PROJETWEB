@@ -1,0 +1,15 @@
+.bg-primary1 {
+  background-color: #000000!important;
+}
+
+#mainNav1 {
+  border-bottom: 1px solid rgba(33,37,41,.1);
+  background-color: #000;
+  transition: all .2s;
+}
+
+imm {
+  width: 422px;
+  height: 223px;
+}
+
